@@ -90,8 +90,8 @@
                             <limit>
                                 <counter>LINE</counter>
                                 <value>COVEREDRATIO</value>
-                                <!-- Define o valor mínimo (0.80 = 80% de cobertura de linhas) -->
-                                <minimum>0.70</minimum> 
+                                <!-- Define o valor mínimo (0.70 = 70% de cobertura de linhas) -->
+                                <minimum>0.90</minimum> 
                             </limit>
                         </limits>
                     </rule>
