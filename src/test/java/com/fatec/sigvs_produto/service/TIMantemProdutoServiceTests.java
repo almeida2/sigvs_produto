@@ -13,7 +13,7 @@ import java.util.Optional;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-class ProdutoServiceIntegrationTest {
+public class TIMantemProdutoServiceTests {
 
     @Autowired
     private IProdutoService service;
