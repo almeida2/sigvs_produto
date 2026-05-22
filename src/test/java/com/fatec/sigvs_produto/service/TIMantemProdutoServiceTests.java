@@ -11,7 +11,9 @@ import java.util.List;
 import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+/**
+ * Testes de integração para a classe TIMantemProdutoService, garantindo o correto funcionamento dos métodos de cadastro, consulta, atualização e exclusão de produtos, bem como a validação dos dados de entrada.
+ */
 @SpringBootTest
 public class TIMantemProdutoServiceTests {
 
