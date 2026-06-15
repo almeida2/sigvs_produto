@@ -54,7 +54,7 @@ sigvs_produto/
 └── metricas-acoplamento.md       # Análise de acoplamento
 ```
 
-## 🚀 Como Começar
+## 🚀 Instalação
 
 ### Pré-requisitos
 
