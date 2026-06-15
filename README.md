@@ -62,8 +62,6 @@ sigvs_produto/
 - **Maven 3.8+** instalado
 - **Git** para controle de versão
 
-### Instalação Local
-
 1. **Clonar o repositório:**
 ```bash
 git clone https://github.com/almeida2/sigvs_produto.git
