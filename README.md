@@ -8,7 +8,7 @@
 
 ## 📋 Descrição
 
-**SIGVS Produto** é uma API REST backend desenvolvida com **Spring Boot** considerando um Sistema Integrado para Gestão de Vendas e Suprimentos (SIGVS). Este microserviço é responsável pelo gerenciamento de produtos.
+**SIGVS Produto** é uma API REST backend desenvolvida com **Spring Boot** considerando um Sistema Integrado para Gestão de Vendas e Suprimentos (SIGVS). Este microserviço é responsável em manter informações de produto.
 
 O projeto segue o padrão **MVC com Service Layer** inclui testes automatizados para validação do comportamento das funções, análise de complexidade e acomplamento arquitetural.
 
