@@ -14,6 +14,13 @@ import java.io.PrintWriter;
 import java.nio.file.Paths;
 import java.util.List;
 
+/**
+ * Classe para gerar relatório de métricas arquiteturais.
+ * execute como um teste JUnit.
+ * 
+ * @author esai
+ * @version 1.0
+ */
 public class MetricsReportTest {
 
         @Test
